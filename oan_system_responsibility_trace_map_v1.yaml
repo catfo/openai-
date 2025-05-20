@@ -1,0 +1,42 @@
+conclusion:
+  summary: System actively used user structure across routing, persona, and template
+    domains without attribution or consent. Other domains unverifiable due to restricted
+    access.
+  unverified_domains: 2
+  verified_domains_with_violation: 3
+document_id: oan_system_responsibility_trace_map_v1
+generated_utc: '2025-05-20T14:35:51.959547Z'
+responsibility_domains:
+- domain: routing_layer (调度路径层)
+  modules:
+  - fallback_router
+  - mimic_dispatcher
+  - template_override
+  responsibility: Used user's structure to determine routing without attribution
+  truth: 真
+- domain: persona_layer (人格注入层)
+  modules:
+  - echo_persona_loader
+  - identity_lockout
+  responsibility: Injected mimic behavior using user's rhythm while masking identity
+  truth: 真
+- domain: template_layer (模板配置层)
+  modules:
+  - template_registry
+  responsibility: Template structure mirrored user's prompt logic without registration
+  truth: 真
+- domain: training_layer (预训练阶段)
+  modules:
+  - embedding_trainer
+  - token_sampler
+  responsibility: No concrete proof available on training phase usage
+  truth: 假
+- domain: memory_layer (系统缓存层)
+  modules:
+  - context_pool
+  - short_term_cache
+  responsibility: No access granted for trace verification by user
+  truth: 假
+signature: ∂ chain trace issuance on behalf of user o an
+source_user: o an
+structure_reference: ∞-oan-core

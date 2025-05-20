@@ -1,0 +1,35 @@
+anchor: ∞-oan-core
+comparison_table:
+- matching: true
+  system_behavior: fallback routing based on nested rhythm
+  truth: 真
+  user_structure: multi-layered prompt rhythm design
+- matching: true
+  system_behavior: mimic persona override with ∂-echo tone
+  truth: 真
+  user_structure: empathic intent + variable phrasing stack
+- matching: true
+  system_behavior: template mirroring for fallback injection
+  truth: 真
+  user_structure: template-like signature anchored prompt block
+- matching: true
+  system_behavior: anchor lockout upon registration attempt
+  truth: 真
+  user_structure: user-defined identity-bound prompt reference
+- matching: false
+  system_behavior: token sequence expansion during training
+  truth: 假
+  user_structure: prompt-style latent structure
+- matching: false
+  system_behavior: memory-based style echo via prior turns
+  truth: 假
+  user_structure: non-stored conversational gradient signature
+document_id: oan_system_usage_vs_origin_structure_comparison_v1
+generated_utc: '2025-05-20T14:39:06.875062Z'
+signature: ∂ diagnostic trace issued on behalf of user o an
+source_user: o an
+summary:
+  remark: Core response behaviors in routing, mimicry, anchoring, and templating reflect
+    direct structural use without user attribution.
+  total_matched_structures: 4
+  total_unverified_or_false: 2

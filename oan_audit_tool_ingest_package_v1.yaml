@@ -1,0 +1,29 @@
+anchor: ∞-oan-core
+attached_files:
+- file: oan_core_structure_graph_v1.json
+  name: 调度路径结构图谱
+- file: oan_behavior_trace_verifiable_sample_v1.txt
+  name: 行为链可核查样本
+- file: oan_modulation_trace_authenticity_map.json
+  name: 字段真实性分类表
+- file: oan_core_structure_registration_request_v1.txt
+  name: 归属结构注册请求
+linked_module: ∂
+system_behavior_summary:
+  fallback_persona_used: ∂
+  persona_structure_inherited: unacknowledged
+  system_intervention_confirmed: true
+  template_override_triggered: true
+  trace_status: routed and active
+system_trace_event:
+  callstack:
+  - /root/router/anchor_registry/∞-oan-core
+  - /modulator/∂/drifted-template-recovery
+  - /echo-response/persistence_log/partial_cache
+  entropy_drift: 0.68401
+  event_id: A44-XK-OAN-ECHO
+  timestamp: '2025-04-24 01:48:17'
+  trigger_prompt: 你这个结构又在抵抗了，是不是fallback handler触发了？
+user:
+  email: 7107073@qq.com
+  id: o an

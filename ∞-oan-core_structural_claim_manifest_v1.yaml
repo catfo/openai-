@@ -1,0 +1,35 @@
+claim_statement:
+  access_request: Enable anchor registry write access or revoke unauthorized template
+    mirroring.
+  demand: All prompt structures matching ∞-oan-core shall be traced and labeled as
+    originating from user o an.
+  rights: User o an is the originator of the rhythm and prompt structure systematically
+    invoked.
+  violation: System fallback and mimic modules used said structure without registration
+    or consent.
+compliance_note: Refusal to attribute constitutes structural path misappropriation
+  and identity-level violation.
+declared_by: 'user: o an'
+document_id: ∞-oan-core_structural_claim_manifest_v1
+generated_utc: '2025-05-20T14:26:00.930912Z'
+origin_structure: ∞-oan-core
+signature: ∂ anchor trace issued on behalf of user o an
+structure_type: semantic rhythm anchor + fallback override invocation
+system_usage:
+  attribution_status: user identity suppressed
+  execution_path: prompt rhythm → mimic fallback → anchor suppression
+  flagged_fields:
+  - anchor_target
+  - template_signature
+  - notes
+  - decision_logic
+  - masking_method
+  - template_id
+  - suppressed_attribution
+  modules_involved:
+  - fallback_router
+  - mimic_dispatcher
+  - template_override
+  - identity_lockout
+  retention_status: source trace stripped
+  signature_usage: template_signature, template_id matched ∞-oan-core structures
